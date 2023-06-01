@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+      <head>
+        <title> rafael na programacao </title>
+        </head>
+<body>
+            <Iabel for="nota1"> nota 1:</Iabel>
+            <input type="text" id="nota1"/>
+
+            <label for="nota2"> nota 2:</label>
+            <input type="text" id="nota2"/>
+
+            <label for="nota3"> nota 3:</label>
+            <input type="text" id="nota3"/>
+
+            <label for="nota4"> nota 4:</label>
+            <input type="text" id="nota4"/>
+            <button type="button" onclick="calcularMedia()">calcular média</button>
+
+            <p id="resultado">0</p>
+</body>
+	
+        <script>
+        
+           function  calcularMedia() {
+             var nota1 = parseFloat(document.getElementById('nota1').value)
+             var nota2 = parseFloat(document.getElementById('nota2').value)
+             var nota3 = parseFloat(document.getElementById('nota3').value)
+             var nota4 = parseFloat(document.getElementById('nota4').value)
+
+             var media = (nota1+nota2+nota3+nota4) / 4
+
+             var resultado = document.getElementById('resultado')
+
+          	 resultado.innerHTML = media	
+		
+	
+	}
+	
+	</script>
+	 
+</html>
