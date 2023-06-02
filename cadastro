@@ -2,13 +2,13 @@ Portifolio_Rafael
 
 Portfólio para documentar o processo de aprendizado da disciplina de Programação Web.
 
-Projeto: Página para calcular média
+Projeto: cadastro com email e senha 
 
 Arquivo (s):
 
 ⚫ index
 
-Descrição: Página Web que calcula a média aritmética de duas notas.
+Descrição: pagina que serve para fazer cadastro com email e senha é fala se estar correto senão estive exibe a mensagem (login falhou) e se estiver correta exibe (login bem-sucedido) .
 
 Tecnologias utilizadas:
 
