@@ -16,10 +16,6 @@ Tecnologias utilizadas:
 
 • Visual code estudio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei errando na hora da digitar os comandos basicamente coloquei algumas
-
-Erro: TypeError: Cannot read properties of null (reading 'value')
-
-Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei errando na hora da digitar os comandos basicamente coloquei algumas algumas letras com maiusculas e por isso acabou dando erro
 
 Link para acesso ao projeto: file:///C:/Users/Sec%20RN/Documents/rafaelps.html
